@@ -1,1 +1,1 @@
-echo $JAVA_HOME
+echo "dddddddddpppppppppppppppppppppppppp"
