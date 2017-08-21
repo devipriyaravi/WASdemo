@@ -1,2 +1,4 @@
-cd /opt/IBM/Websphere/Appserver/profiles/Dmgr01/bin/
-./stopManager.sh
+path = /opt/IBM/Websphere/Appserver/profiles/Dmgr01/bin/
+echo $path
+cd $path
+./serverStatus.sh
